@@ -6,6 +6,8 @@ Multi-step form created with bootstrap.
 
 Live preview (functional demo): [https://selbetti-challenge.netlify.app/](https://selbetti-challenge.netlify.app/)
 
+![Demonstration](https://raw.githubusercontent.com/DanielMafra/selbetti-challenge/main/demonstration.gif)
+
 ## Some considerations
 
 In the folder named "version1", it contains the individual files of each step ("screen1.html", "screen2.html", ...) as requested in the challenge.
