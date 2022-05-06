@@ -1,6 +1,6 @@
 # Front-end challenge - Selbetti
 
-[Clique aqui para ler em Português](https://github.com/DanielMafra/selbetti-challenge/readme.pt-BR.md)
+[Clique aqui para ler em Português](https://github.com/DanielMafra/selbetti-challenge/blob/main/readme.pt-BR.md)
 
 Multi-step form created with bootstrap.
 
@@ -29,7 +29,7 @@ In this second case, I chose to use ReactJS, but trying to keep as much of the b
 
 ## Running the project (version2)
 
-After having cloned the repository and accessed its folder through the terminal, go to page "version2" and run the commands below (remember to have installed Node)
+After having cloned the repository and accessed its folder through the terminal, go to folder "version2" and run the commands below (remember to have installed Node)
 
 ```bash
   npm install
