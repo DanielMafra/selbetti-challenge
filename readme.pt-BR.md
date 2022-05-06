@@ -1,6 +1,6 @@
 # Desafio Front-end - Selbetti
 
-[Click here to read in English](https://github.com/DanielMafra/selbetti-challenge/readme.md)
+[Click here to read in English](https://github.com/DanielMafra/selbetti-challenge/blob/main/readme.md)
 
 Formulário multietapas criado com bootstrap.
 
