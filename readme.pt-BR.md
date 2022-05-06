@@ -6,6 +6,8 @@ Formulário multietapas criado com bootstrap.
 
 Live preview (demonstração funcional): [https://selbetti-challenge.netlify.app/](https://selbetti-challenge.netlify.app/)
 
+![Demonstração](https://raw.githubusercontent.com/DanielMafra/selbetti-challenge/main/demonstration.gif)
+
 ## Algumas condiderações
 
 Na pasta com o nome de "version1", contém os arquivos individuais de cada etapa do formulário ("tela1.html", "tela2.html", ...) conforme solicitado no desafio.
