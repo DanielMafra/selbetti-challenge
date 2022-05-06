@@ -1,0 +1,41 @@
+.description {
+  max-width: 348px;
+  font-size: 1.125rem;
+  line-height: 1.313rem;
+  color: var(--grey-400);
+  margin: 28px auto 20px auto;
+}
+
+.form-area {
+  padding-bottom: 52px;
+}
+
+.finally-area>p {
+  line-height: 1.688rem;
+  color: var(--red-700);
+}
+
+.plan-area>p {
+  line-height: 1rem;
+  color: var(--grey-400);
+  max-width: 190px;
+  margin: 70px auto 0 auto;
+}
+
+.portal-btn {
+  margin: 34px auto 0 auto;
+  display: block;
+  font-size: 0.875rem;
+  line-height: 1rem;
+  color: #fff;
+  padding: 18px;
+  width: 325px;
+  background-color: var(--red-700);
+  border-radius: 2px;
+  border: 0;
+  transition: all .3s ease;
+}
+
+.portal-btn:hover {
+  background-color: #B72C1E;
+}

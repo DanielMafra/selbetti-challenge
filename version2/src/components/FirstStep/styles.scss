@@ -1,0 +1,74 @@
+.form-principal>div>label {
+  font-size: 0.875rem !important;
+  line-height: 0.875rem;
+  color: var(--grey-250);
+}
+
+.form-principal>div>input {
+  height: 46px;
+}
+
+.domain-label:after {
+  content: '?';
+  background-color: var(--grey-250);
+  color: #fff;
+  font-size: 0.625rem;
+  line-height: 0.625rem;
+  padding: 1px 4px;
+  border-radius: 50%;
+  margin-left: 4px;
+}
+
+.input-group-text {
+  color: var(--grey-250);
+}
+
+.small-input {
+  max-width: 62px !important;
+  margin-right: 8px;
+  height: 46px;
+}
+
+.form-check>input {
+  width: 18px;
+  height: 18px;
+  margin: 0;
+  position: relative;
+
+  &:checked {
+    background-color: #fff;
+    border: 1px solid var(--grey-400);
+
+    &:after {
+      content: '\2713';
+      color: var(--grey-400);
+      font-size: 1.375rem;
+      font-weight: bold;
+      position: absolute;
+      top: -8px;
+      left: 0;
+    }
+  }
+}
+
+.checkbox-description {
+  max-width: 155px;
+  font-size: 0.625rem;
+  line-height: 0.625rem;
+  color: var(--grey-250);
+}
+
+.form-principal button {
+  background-color: var(--grey-400);
+  border: 0;
+  border-radius: 2px;
+  font-size: 0.875rem;
+  line-height: 0.875rem;
+  color: #fff;
+  padding: 18px 28px;
+  transition: all .3s ease;
+
+  &:hover {
+    background-color: #606060;
+  }
+}

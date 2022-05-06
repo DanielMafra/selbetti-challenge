@@ -1,0 +1,77 @@
+.form-area {
+  padding-bottom: 52px;
+}
+
+.form-area>p {
+  color: var(--grey-250);
+  font-size: 0.875rem;
+  line-height: 1rem;
+  max-width: 276px;
+  margin: 0 auto 22px auto;
+}
+
+.item {
+  background-color: #fff;
+  max-width: 100px;
+  min-width: 100px;
+  padding: 21px 0 11px 0;
+  border-radius: 3px;
+  cursor: pointer;
+  border: 1px solid transparent;
+  transition: all .3s ease;
+}
+
+.item:hover {
+  border: 1px solid var(--red-700);
+}
+
+.item>span {
+  display: block;
+  font-size: 0.75rem;
+  line-height: 0.75rem;
+  color: var(--grey-400);
+  margin-top: 8px;
+}
+
+.item>input {
+  border: transparent;
+  border-bottom: 1px solid #989898;
+  max-width: 166px;
+}
+
+.item>input::placeholder {
+  text-align: center;
+  font-size: 0.75rem;
+  line-height: 0.75rem;
+  color: #989898;
+}
+
+.custom-input {
+  min-width: 212px;
+  max-width: 212px;
+}
+
+.btns-area>button {
+  font-size: 0.875rem;
+  line-height: 0.875rem;
+  padding: 18px 32px;
+  border-radius: 2px;
+}
+
+.btn-back {
+  color: var(--grey-400);
+  border: 1px solid var(--grey-400);
+  background-color: transparent;
+}
+
+.btn-create-account {
+  width: 214px;
+  color: #fff;
+  border: 1px solid var(--red-700);
+  background-color: var(--red-700);
+  transition: all .3s ease;
+}
+
+.btn-create-account:hover {
+  background-color: #B72C1E;
+}

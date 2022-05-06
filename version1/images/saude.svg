@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
+  <g id="Grupo_134" data-name="Grupo 134" transform="translate(-825 -631)">
+    <g id="Retângulo_27" data-name="Retângulo 27" transform="translate(840 631)" fill="#fff" stroke="#707070" stroke-width="2">
+      <rect width="20" height="50" rx="4" stroke="none"/>
+      <rect x="1" y="1" width="18" height="48" rx="3" fill="none"/>
+    </g>
+    <g id="Retângulo_28" data-name="Retângulo 28" transform="translate(875 646) rotate(90)" fill="#fff" stroke="#707070" stroke-width="2">
+      <rect width="20" height="50" rx="4" stroke="none"/>
+      <rect x="1" y="1" width="18" height="48" rx="3" fill="none"/>
+    </g>
+  </g>
+</svg>

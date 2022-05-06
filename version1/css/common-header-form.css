@@ -1,0 +1,43 @@
+.top-area {
+  background-color: var(--red-700);
+}
+
+.header-info {
+  background-color: #fff;
+  max-width: 450px;
+}
+
+.header-info>h1 {
+  color: var(--red-700);
+}
+
+.header-info>h1>span {
+  color: var(--grey-400);
+}
+
+.benefits-area {
+  gap: 2.125rem;
+  width: 100%;
+}
+
+.benefit>strong,
+.benefit>span {
+  display: block;
+}
+
+.benefit>strong {
+  font-size: 1.125rem;
+  line-height: 1.5rem;
+  color: var(--red-700);
+}
+
+.benefit>span {
+  font-size: 0.75rem;
+  color: var(--grey-400);
+}
+
+.benefit-center {
+  padding: 0 2.125rem;
+  border-left: 1px solid var(--grey-50);
+  border-right: 1px solid var(--grey-50);
+}

@@ -1,0 +1,39 @@
+.description {
+  max-width: 348px;
+  font-size: 1.125rem;
+  line-height: 1.313rem;
+  color: var(--grey-400);
+  margin: 28px auto 20px auto;
+}
+
+.form-area {
+  padding-bottom: 52px;
+}
+
+.spinner {
+  width: 100px;
+  height: 100px;
+  border: 12px solid var(--red-700);
+  border-bottom-color: transparent;
+  border-radius: 50%;
+  animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+  0% {
+    transform: rotate(0deg);
+  }
+
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+.load-area {
+  min-height: 540px;
+
+  p {
+    line-height: 1.5rem;
+    color: var(--red-700);
+  }
+}
